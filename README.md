@@ -4,7 +4,7 @@ Welcome to the Library Collection for Arduino and Raspberry Pi! This repository 
 
 ## Download Lib .zip
 
-Link other : ![Link-Downkload-GDrive](https://drive.google.com/drive/folders/1JHS718Au5lQIwRUITIKurIsQpKkpNMcE?usp=sharing)
+Link other : [Download from Google Drive](https://drive.google.com/drive/folders/1JHS718Au5lQIwRUITIKurIsQpKkpNMcE?usp=sharing)
 
 ## Overview
 
