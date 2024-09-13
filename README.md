@@ -2,6 +2,10 @@
 
 Welcome to the Library Collection for Arduino and Raspberry Pi! This repository contains a comprehensive collection of libraries and components used with Arduino and Raspberry Pi boards, including sensors and other peripherals.
 
+## Download Lib .zip
+
+Link other : ![Link-Downkload-GDrive](https://drive.google.com/drive/folders/1JHS718Au5lQIwRUITIKurIsQpKkpNMcE?usp=sharing)
+
 ## Overview
 
 This project provides a curated library of sensors and components that can be used with Arduino and Raspberry Pi boards. It includes code examples, wiring diagrams, and setup instructions to help you integrate these components into your projects.
@@ -115,4 +119,4 @@ For any questions or additional support, please contact [veendyputra@gmail.com] 
 
 README ini memberikan panduan lengkap tentang pustaka sensor dan komponen untuk Arduino dan Raspberry Pi, serta cara menggunakannya dan berkontribusi pada proyek.
 <br/>
-"# Library-Collection" 
+"# Library-Collection"
